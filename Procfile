@@ -1,1 +1,1 @@
-worker: python tvoia mama.py
+worker: python tvoiamama.py
